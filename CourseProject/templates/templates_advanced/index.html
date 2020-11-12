@@ -1,0 +1,33 @@
+{% extends 'templates_advanced/shared/base_sidebar.html' %}
+{% load static %}
+{% load todos_filter %}
+{% load todo_details %}
+{% load bootstrap_form %}
+
+{% block title %}
+{% endblock %}
+
+{% block sidebar_content %}
+    <h1>Form</h1>
+
+    {% bootstrap_form form=form method="post" action="my-action" %}
+{% endblock %}
+
+
+{% block content %}
+    <h1>Todo</h1>
+
+    <h2>Include:</h2>
+    <ul>
+        {% for todo_entry in todos|todos_filter:state %}
+            {% include 'templates_advanced/partials/todos.html' with todo=todo_entry %}
+        {% endfor %}
+    </ul>
+
+    <h2>Tags:</h2>
+    <ul>
+        {% for todo_entry in todos|todos_filter:state %}
+            {% todo_details todo=todo_entry %}
+        {% endfor %}
+    </ul>
+{% endblock %}

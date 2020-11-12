@@ -1,0 +1,8 @@
+<h3>All todos: {{ todos_count }}</h3>
+
+{% if not todo.is_done %}
+    <li style="color:red;">{{ todo.text | truncatewords:1 }} - {{ todo.is_done | lower | capfirst }}</li>
+{% else %}
+    <li style="color:green;">{{ todo.text | truncatewords:1 }} - {{ todo.is_done | truncatechars:3 }}</li>
+{% endif %}
+{{ todo.description }}
