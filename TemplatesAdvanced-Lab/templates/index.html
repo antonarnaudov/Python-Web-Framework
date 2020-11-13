@@ -1,0 +1,14 @@
+{% extends 'common/base/base.html' %}
+
+{% block site_heading %}
+    All Pythons
+{% endblock %}
+
+{% block site_content %}
+
+    <div class="d-flex p-3">
+        {% for python in pythons %}
+            {% include 'partials/python_details.html' with python=python %}
+        {% endfor %}
+    </div>
+{% endblock %}
