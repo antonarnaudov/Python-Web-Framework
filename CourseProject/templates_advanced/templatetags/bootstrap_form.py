@@ -10,7 +10,7 @@ def bootstrap_form(form, action, method):
     # Making sure we are not overriding a class
 
     for (_, field) in form.fields.items():
-        if not field.widget.attrs['class']:
+        if 'class' not in field.widget.attrs:
             field.widget.attrs['class'] = ''
         else:
             field.widget.attrs['class'] += ' form-control'

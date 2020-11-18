@@ -2,32 +2,74 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="236b0445-0c87-4692-8aa1-160e12dc996b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/CourseProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/templates_advanced/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/templates_advanced/partials/nav_bar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/templates_advanced/partials/todos.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/templates_advanced/shared/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/templates_advanced/shared/base_fullwidth.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/templates_advanced/shared/base_sidebar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/templates_advanced/tags/bootstrap_form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/templates_advanced/tags/todo_item.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates_advanced/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates_advanced/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates_advanced/migrations/0002_todo_description.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates_advanced/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates_advanced/templatetags/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates_advanced/templatetags/bootstrap_form.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates_advanced/templatetags/todo_details.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates_advanced/templatetags/todos_filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates_advanced/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/Fluffy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/private/documents/04-Media-Files-Lab.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/private/documents/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/private/documents/test_1z6DrQc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/private/documents/test_52HXhsO.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/private/documents/test_8j4C9yU.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/private/documents/test_AXt9EXa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/private/documents/test_EdVTgTb.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/private/documents/test_FJFORMK.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/private/documents/test_Hlfk6YW.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/private/documents/test_K6M1VXn.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/private/documents/test_NUTebW3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/private/documents/test_NcSxVeh.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/private/documents/test_SfY0waw.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/private/documents/test_TE2d0IV.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/private/documents/test_W9d7KJD.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/private/documents/test_ZExwgQD.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/private/documents/test_gVdFICG.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/private/documents/test_hV2M2EY.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/private/documents/test_yw8keHf.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/private/documents/test_zd8kuWK.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/public/images/Fluffy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/public/images/Fluffy_2tbWqoa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/public/images/Fluffy_3UuIHVh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/public/images/Fluffy_6XlssMx.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/public/images/Fluffy_73FZiYJ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/public/images/Fluffy_8iA4dRU.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/public/images/Fluffy_9rHTax8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/public/images/Fluffy_ClfwdQu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/public/images/Fluffy_Q6OFmir.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/public/images/Fluffy_RLcwlXP.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/public/images/Fluffy_V2WZSqr.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/public/images/Fluffy_wTuidTo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/public/images/rabbits.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/public/images/rabbits_2nMnVQo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/public/images/rabbits_4tkopOX.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/public/images/rabbits_8o3jLME.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/public/images/rabbits_FHcb4eN.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/public/images/rabbits_G5HeofM.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/public/images/rabbits_KHK0Ttq.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/public/images/rabbits_cjWSxrD.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/public/images/rabbits_hDynyJ1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/public/images/rabbits_jG8MQkU.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/public/images/rabbits_xdm7ybP.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/public/images/зайек.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/migrations/0002_auto_20201113_1802.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/migrations/0003_pet_passport.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/migrations/0004_auto_20201114_1520.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/resources/pet/pets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CourseProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/CourseProject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CourseProject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/CourseProject/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/templates_advanced/partials/nav_bar.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/templates_advanced/partials/nav_bar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates_advanced/templatetags/bootstrap_form.py" beforeDir="false" afterPath="$PROJECT_DIR$/templates_advanced/templatetags/bootstrap_form.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +83,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -60,11 +102,13 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Photography-Website/PhotographyWebsite" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -76,6 +120,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Coding\Python-Web-Framework\CourseProject\media\private" />
+      <recent name="D:\Coding\Python-Web-Framework\CourseProject\media\public" />
       <recent name="D:\Coding\Django-Framework\CourseProject\templates_advanced" />
       <recent name="D:\Coding\Django-Framework\CourseProject\templates\templates_advanced" />
       <recent name="D:\Coding\Django-Framework\CourseProject\templates\shared" />
@@ -117,40 +163,71 @@
       <updated>1605097447812</updated>
       <workItem from="1605097453072" duration="3193000" />
       <workItem from="1605186640374" duration="11231000" />
+      <workItem from="1605275418486" duration="8336000" />
+      <workItem from="1605357887552" duration="3758000" />
+      <workItem from="1605527381154" duration="10388000" />
+      <workItem from="1605633148799" duration="24133000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="1545" y="181" key="CommitChangelistDialog2" timestamp="1605199509344">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1545" y="181" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1605199509344" />
-    <state width="1234" height="391" key="GridCell.Tab.0.bottom" timestamp="1605212416092">
+    <state x="1700" y="455" key="FileChooserDialogImpl" timestamp="1605535697438">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="391" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1605212416092" />
-    <state width="1234" height="391" key="GridCell.Tab.0.center" timestamp="1605212416092">
+    <state x="1700" y="455" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1605535697438" />
+    <state width="1234" height="396" key="GridCell.Tab.0.bottom" timestamp="1605718952032">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="391" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1605212416092" />
-    <state width="1234" height="391" key="GridCell.Tab.0.left" timestamp="1605212416092">
+    <state width="1234" height="396" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1605718952032" />
+    <state width="1234" height="396" key="GridCell.Tab.0.center" timestamp="1605718952032">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="391" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1605212416092" />
-    <state width="1234" height="391" key="GridCell.Tab.0.right" timestamp="1605212416092">
+    <state width="1234" height="396" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1605718952032" />
+    <state width="1234" height="396" key="GridCell.Tab.0.left" timestamp="1605718952031">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="391" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1605212416092" />
+    <state width="1234" height="396" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1605718952031" />
+    <state width="1234" height="396" key="GridCell.Tab.0.right" timestamp="1605718952032">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="396" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1605718952032" />
+    <state width="1234" height="484" key="GridCell.Tab.1.bottom" timestamp="1605718807799">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="484" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1605718807799" />
+    <state width="1234" height="484" key="GridCell.Tab.1.center" timestamp="1605718807799">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="484" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1605718807799" />
+    <state width="1234" height="484" key="GridCell.Tab.1.left" timestamp="1605718807798">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="484" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1605718807798" />
+    <state width="1234" height="484" key="GridCell.Tab.1.right" timestamp="1605718807799">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="484" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1605718807799" />
+    <state width="647" height="703" key="XDebugger.FullValuePopup" timestamp="1605718457482">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="647" height="703" key="XDebugger.FullValuePopup/0.0.2560.1400@0.0.2560.1400" timestamp="1605718457482" />
     <state x="1737" y="610" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605199538279">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1737" y="610" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400@0.0.2560.1400" timestamp="1605199538279" />
-    <state x="1583" y="319" width="672" height="678" key="search.everywhere.popup" timestamp="1605199503025">
+    <state x="1583" y="319" width="672" height="678" key="search.everywhere.popup" timestamp="1605286549296">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1583" y="319" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1605199503025" />
+    <state x="1583" y="319" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1605286549296" />
   </component>
 </project>
