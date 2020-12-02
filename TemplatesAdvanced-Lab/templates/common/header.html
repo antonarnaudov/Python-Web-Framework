@@ -14,4 +14,11 @@
             </li>
         </ul>
     </div>
+    <div>
+        {% if user.is_authenticated %}
+            Hello, {{ user.username }}! <a href="{% url 'logout user' %}">Logout</a>
+        {% else %}
+            <a href="{% url 'login user' %}">Login</a>
+        {% endif %}
+    </div>
 </nav>
