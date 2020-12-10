@@ -3,5 +3,17 @@
     <div class="card-body">
         <h5 class="card-title">{{ python.name }}</h5>
         <p class="card-text">{{ python.description }}</p>
+
+        {% if python.is_wished %}
+            <a href="{% url 'wish python' python.id %}" class="card-text"><i class="fa fa-heart" aria-hidden="true"
+                                                                             style="color: black; font-size:40px;"></i></a>
+        {% else %}
+            {#            <a href="{% url 'wish python' python.id %}" class="card-text"><i class="fa fa-heart" aria-hidden="true"#}
+            {#                                                                             style="color: black; font-size:40px;"></i></a>#}
+            <a href="{% url 'wish python' python.id %}" class="card-text"><i class="far fa-heart" aria-hidden="true"
+                                                                             style="color: black; font-size:40px;"></i></a>
+        {% endif %}
+
     </div>
 </div>
+{#pet.like_set.filter(user_id=request.user.userprofile.id).exists()#}

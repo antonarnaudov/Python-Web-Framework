@@ -1,0 +1,15 @@
+{% extends 'common/base/base.html' %}
+
+{% block site_content %}
+    {% for python in wishlist %}
+        <div class="card m-3" style="width: 18rem;">
+            <img class="card-img-top" src="{{ python.python.image }}" alt="Card image cap">
+            <div class="card-body">
+                <h5 class="card-title">{{ python.python.name }}</h5>
+                <p class="card-text">{{ python.python.description }}</p>
+
+
+            </div>
+        </div>
+    {% endfor %}
+{% endblock %}
